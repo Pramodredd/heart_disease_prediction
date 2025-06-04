@@ -30,19 +30,27 @@ Check out the live app here:
 ---
 
 ## 📂 Project Structure
-heart-disease-prediction/
-├── app.py
-├── model.pkl
-├── requirements.txt
-└── README.md
+<pre> 📁 heart-disease-prediction/ ├── app.py # Streamlit application script ├── model.pkl # Trained machine learning model ├── requirements.txt # List of Python dependencies └── README.md # Project documentation </pre>
 
 ## 🔧 Setup Instructions
-
+Follow these steps to run the project locally on your machine:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/heart-disease-prediction.git
 cd heart-disease-prediction
+### 2. Create a Virtual Environment (optional but recommended)
 python -m venv venv
+## Activate the environment:
+On Windows:
+```bash
+venv\Scripts\activate
+
+On macOS/Linux:
+```bash
 source venv/bin/activate
+
+### 3. Install Required Python Packages
 pip install -r requirements.txt
+
+### 4. Run the Streamlit App
 streamlit run app.py
