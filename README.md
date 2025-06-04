@@ -35,7 +35,7 @@ Check out the live app here:
 ## 🔧 Setup Instructions
 Follow these steps to run the project locally on your machine:
 ### 1. Clone the repository
-  git clone git@github.com:Pramodredd/heart_disease_prediction.git
+  git clone https://github.com/Pramodredd/heart_disease_prediction
   
   cd heart-disease-prediction
 ### 2. Create a Virtual Environment (optional but recommended)
