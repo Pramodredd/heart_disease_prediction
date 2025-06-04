@@ -5,7 +5,7 @@ This Streamlit web app predicts the likelihood of heart disease based on various
 ## 🚀 Demo
 
 Check out the live app here:  
-[![Open in Streamlit](https://heartdiseaseprediction7.streamlit.app/)  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartdiseaseprediction7.streamlit.app/)  
 
 ---
 
