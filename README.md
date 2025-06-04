@@ -35,19 +35,17 @@ Check out the live app here:
 ## 🔧 Setup Instructions
 Follow these steps to run the project locally on your machine:
 ### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+  git clone git@github.com:Pramodredd/heart_disease_prediction.git
+  
+  cd heart-disease-prediction
 ### 2. Create a Virtual Environment (optional but recommended)
-python -m venv venv
+  python -m venv venv
 ## Activate the environment:
 On Windows:
-```bash
-venv\Scripts\activate
+  venv\Scripts\activate
 
 On macOS/Linux:
-```bash
-source venv/bin/activate
+  source venv/bin/activate
 
 ### 3. Install Required Python Packages
 pip install -r requirements.txt
